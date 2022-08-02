@@ -1,7 +1,7 @@
 # Cash Registrer
 Cash Registrer
 
-•	1
+•	1 \n
 •	2
 •	3
 •	4
