@@ -1,4 +1,4 @@
-# CashRegistrer
+# Cash Registrer
 Cash Registrer
 
 •	1
